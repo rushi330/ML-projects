@@ -57,11 +57,7 @@ After comprehensive evaluation, the Random Forest Regressor achieved the highest
 🚀 How to Use
 🖥️ Steps to Run:
 Clone the repository:
-
-bash
-Copy
-Edit
-git clone <repository_link>
+git clone <https://github.com/rushi330/ML-projects.git>
 
 Navigate into the project directory and install dependencies:
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost tensorflow
