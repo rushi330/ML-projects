@@ -69,6 +69,6 @@ Open Profit_Prediction_Of_Startup.ipynb and run all cells sequentially.
 🧮 Example Input:
 Enter R & D Spend         : 8000  
 Enter Administration Cost : 5000  
-Enter Marketing Spend     : 10000  
+Enter Marketing Spend     : 110000
 📈 Output:
 The predicted profit of the Startup is: ₹53,324.09
