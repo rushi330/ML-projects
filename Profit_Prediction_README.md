@@ -15,7 +15,7 @@ Data Manipulation: Pandas, NumPy
 
 Visualization: Matplotlib, Seaborn
 
-Machine Learning: Scikit-learn, XGBoost
+Machine Learning: Scikit-learn, XGBoost , Regression
 
 Deep Learning: TensorFlow
 
